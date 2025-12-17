@@ -2,7 +2,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jesus-alberto-salas-soto/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jesus Salas"/></a>
-<a href = "jesusssalas69@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@jesus-salas"  /></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
