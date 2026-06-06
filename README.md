@@ -127,10 +127,6 @@ Abierto a oportunidades remotas, híbridas o presenciales para continuar desarro
 
 <h2>🚀 Repositorios Recomendados</h2>
 
-<p>
-Agrega aquí enlaces directos a tus mejores proyectos:
-</p>
-
 <ul>
   <li>🚖 Urban Routes Testing</li>
   <li>🔌 API Testing con Postman</li>
